@@ -1,0 +1,12 @@
+檔案路徑：C:\Users\88696\Documents\GitHub\python\111\高階
+目錄串列：['.ipynb_checkpoints', '質數資料夾']
+檔案串列：['高01.ipynb', '高02.ipynb', '高03.ipynb', '高04.ipynb', '高05.ipynb', '高06.ipynb', '高07.ipynb', '高08.ipynb', '高09.ipynb', '高10.ipynb']
+
+檔案路徑：C:\Users\88696\Documents\GitHub\python\111\高階\.ipynb_checkpoints
+目錄串列：[]
+檔案串列：['高02-checkpoint.ipynb', '高03-checkpoint.ipynb', '高04-checkpoint.ipynb', '高05-checkpoint.ipynb', '高06-checkpoint.ipynb', '高07-checkpoint.ipynb', '高08-checkpoint.ipynb', '高09-checkpoint.ipynb', '高10-checkpoint.ipynb']
+
+檔案路徑：C:\Users\88696\Documents\GitHub\python\111\高階\質數資料夾
+目錄串列：[]
+檔案串列：['prime_list.txt']
+
